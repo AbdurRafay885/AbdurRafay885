@@ -60,6 +60,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 ### 🌐 Frontend Technologies
 <div align="left">
   <img src="https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=next.js&logoColor=000000" alt="Next.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
