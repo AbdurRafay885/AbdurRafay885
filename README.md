@@ -166,7 +166,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ### **Bachelor of Science (BS) in Computer Sciences**
 🏫 **National University of Modern Languages (NUML)**, Islamabad *(Rawalpindi Campus)*  
-📅 *September 2023 – Expected June 2027*  
+📅 *September 2023 – Cont. (Expected Graduation: June 2027)*  
 📊 **CGPA:** `3.99 / 4.00`
 
 <br>
