@@ -178,6 +178,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 * 🎓 **Artificial Intelligence using Python** — *DigiSkills.pk*
 * 🎓 **Artificial Intelligence Fundamentals** — *IBM Skills Build*
+* 🎓 **Developing in Agentic AI Systems** — *Microsoft Learn*
 * 🎓 **Data Science & Analytics** — *HP Life*
 * 🎓 **Introduction to Cyber-Security** — *HP Life*
 * 🎓 **Microsoft Copilot** — *Microsoft*
