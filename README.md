@@ -124,11 +124,11 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ### **Software Developer Intern**
 📍 **Inara Technologies**, Islamabad, Pakistan (On-site)  
-📅 *July 2026 – August 2026*
+📅 *July 2026 – Present*
 
 ### **Full Stack Web Developer Intern**
 📍 **DigiAmplify**, London, UK (Remote)  
-📅 *July 2026 – August 2026*
+📅 *July 2026 – Present*
 
 <br>
 
