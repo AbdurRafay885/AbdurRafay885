@@ -47,9 +47,10 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ## 🛠️ Technical Skills
 
-### 🔤 Programming Languages
+### 👨‍💻 Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%237C3AED.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
