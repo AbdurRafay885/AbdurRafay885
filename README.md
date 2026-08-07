@@ -123,13 +123,37 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ## 💼 Work Experience
 
+### **Full Stack Web Developer Intern**
+📍 **DigiAmplify**, London, UK (Remote)  
+📅 *July 2026 – Present*
+
+<br>
+<img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
+
+✅ Built a feature-rich "DigiAmplify" Employee Portal with task assignment, team chat, attendance (clock-in/clock-out), finance modules, problem reporting, employees management and other internal management features. <br>
+✅ Developed the "DigiAmplify" website frontend using Next.js, focusing on responsive and modern user interfaces. <br> 
+✅ Implemented client-requested enhancements for the "Meximo" - a restaurant website and CMS, ensuring timely delivery. <br>
+✅ Performed end-to-end testing of the "Meximo" web platform and mobile application before client deployment. <br>
+✅ Conducted detailed functional and quality assurance testing of a client's MRP system, ensuring reliability, accuracy, and readiness for deployment. <br>
+
+<br>
+
 ### **Software Developer Intern**
 📍 **Inara Technologies**, Islamabad, Pakistan (On-site)  
 📅 *July 2026 – Present*
 
-### **Full Stack Web Developer Intern**
-📍 **DigiAmplify**, London, UK (Remote)  
-📅 *July 2026 – Present*
+<br>
+<img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
+
+✅ Developed an Intern Management System for "Inara Technologies" that digitalized the complete internship lifecycle, including internship applications, application status tracking, intern onboarding, task and project assignment, report submission, progress monitoring, and mentor management, providing a centralized platform to streamline internship administration and improve collaboration between mentors and interns. <br>
+
+<br>
+<img src="https://img.shields.io/badge/Technical%20Training-red?style=for-the-badge" alt="Technical Training" />
+
+✅ Completed hands-on training in Linux, Shell scripting, file system management, permissions, text processing (grep, sed, awk), package management, and process management. <br>
+✅ Gained practical experience with Git, including version control, branching, merge conflict resolution, remote collaboration, pull requests, and team-based development workflows. <br>
+✅ Acquired hands-on experience with SSH, key-based authentication, Docker, Dockerfiles, Docker Compose, container networking, image management, and multi-container application deployment. <br>
+✅ Developed practical skills in API testing with cURL, HTTPie, and Postman, environment configuration using environment variables and `.env` files, application troubleshooting, logging, storage management, and end-to-end development environment setup through a capstone project. <br> 
 
 <br>
 
