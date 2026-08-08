@@ -131,7 +131,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
 
 ✅ Built a feature-rich "DigiAmplify" Employee Portal with task assignment, team chat, attendance (clock-in/clock-out), finance modules, problem reporting, employees management and other internal management features. <br>
-✅ Developed the "DigiAmplify" website frontend using Next.js, focusing on responsive and modern user interfaces. <br> 
+✅ Developed the "DigiAmplify" website using Next.js, focusing on responsive and modern user interfaces. <br> 
 ✅ Implemented client-requested enhancements for the "Meximo" - a restaurant website and CMS, ensuring timely delivery. <br>
 ✅ Performed end-to-end testing of the "Meximo" web platform and mobile application before client deployment. <br>
 ✅ Conducted detailed functional and quality assurance testing of a client's MRP system, ensuring reliability, accuracy, and readiness for deployment. <br>
