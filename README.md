@@ -208,7 +208,26 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 * 🎓 **Introduction to Cyber-Security** — *HP Life*
 * 🎓 **Microsoft Copilot** — *Microsoft*
 
+<br>
+
 ---
+
+## 🏆 Awards & Achievements
+
+### 🎓 Merit-Based Scholarship
+**NUML, Rawalpindi | September 2023 – Present**
+
+Receiving a **merit-based scholarship continuously since my first semester**, which began in September 2023, in recognition of my consistent academic performance. The scholarship reflects my dedication to maintaining a strong academic record throughout my **Bachelor of Science (BSc)** degree and motivates me to continue pursuing academic and professional excellence.
+
+### 💻 Prime Minister’s Youth Laptop Scheme
+**Merit-Based Award | 2025**
+
+Selected to receive a laptop through the **Prime Minister’s Youth Laptop Scheme** based on academic merit and performance. The award provides valuable technological resources to support my university studies, programming practice, software development projects, and continued growth in the field of technology.
+
+<br>
+
+---
+
 <div align="center">
   🚀 <i>"Building the future of the web with integrated intelligent systems."</i>
 </div>
