@@ -125,7 +125,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ### **Full Stack Web Developer Intern**
 📍 **DigiAmplify**, London, UK (Remote)  
-📅 *July 2026 – Present*
+📅 *July 2026 – September 2026  (3 Months)*
 
 <br>
 <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
@@ -134,13 +134,13 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 ✅ Developed the "DigiAmplify" website using Next.js, focusing on responsive and modern user interfaces. <br> 
 ✅ Implemented client-requested enhancements for the "Meximo" - a restaurant website and CMS, ensuring timely delivery. <br>
 ✅ Performed end-to-end testing of the "Meximo" web platform and mobile application before client deployment. <br>
-✅ Conducted detailed functional and quality assurance testing of a client's MRP system, ensuring reliability, accuracy, and readiness for deployment. <br>
+✅ Conducted detailed functional and quality assurance testing of a "Strategic Innovations" MRP system, ensuring reliability, accuracy, and readiness for deployment. <br>
 
 <br>
 
 ### **Software Developer Intern**
 📍 **Inara Technologies**, Islamabad, Pakistan (On-site)  
-📅 *July 2026 – Present*
+📅 *July 2026 – August 2026  (6 Weeks)*
 
 <br>
 <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
