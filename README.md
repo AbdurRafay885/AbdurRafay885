@@ -80,9 +80,9 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ### 🗄️ Databases
 <div align="left">
+   <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 <br>
@@ -131,10 +131,10 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 <br>
 <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
 
-✅ Built a feature-rich "DigiAmplify" Employee Portal with task assignment, team chat, attendance (clock-in/clock-out), finance modules, problem reporting, employees management and other internal management features. <br>
-✅ Developed the "DigiAmplify" website using Next.js, focusing on responsive and modern user interfaces. <br> 
-✅ Implemented client-requested enhancements for the "Meximo" - a restaurant website and CMS, ensuring timely delivery. <br>
-✅ Performed end-to-end testing of the "Meximo" web platform and mobile application before client deployment. <br>
+✅ Built a feature-rich DigiAmplify Employee Portal with task assignment, team chat, attendance (clock in/clock-out), finance modules, problem reporting, employees management, performance and progress monitoring, and other internal management features, using Next.js, Node.js and MySQL. <br>
+✅ Developed the DigiAmplify website, building a modern, responsive, and professional digital presence with engaging UI, structured service sections, and seamless user experience across devices, using Next.js.  <br> 
+✅ Implemented client-requested enhancements for Meximo - a restaurant website, mobile app, and CMS, ensuring timely delivery. <br>
+✅ Performed end-to-end testing of the Meximo web platform, CMS and mobile application before client deployment. <br>
 ✅ Conducted detailed functional and quality assurance testing of a "Strategic Innovations" MRP system, ensuring reliability, accuracy, and readiness for deployment. <br>
 
 <br>
@@ -146,7 +146,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 <br>
 <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
 
-✅ Developed an Intern Management System for "Inara Technologies" that digitalized the complete internship lifecycle, including internship applications, application status tracking, intern onboarding, task and project assignment, report submission, progress monitoring, and mentor management, providing a centralized platform to streamline internship administration and improve collaboration between mentors and interns. <br>
+✅ Developed an Intern Management System for Inara Technologies, using React.js, Node.js, and MySQL, that digitalized the complete internship lifecycle, including internship applications, application status tracking, intern onboarding, task and project assignment, report submission, progress monitoring, and mentor management, providing a centralized platform to streamline internship administration and improve collaboration between mentors and interns.  <br>
 
 <br>
 <img src="https://img.shields.io/badge/Technical%20Training-red?style=for-the-badge" alt="Technical Training" />
