@@ -126,7 +126,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ### **Full Stack Web Developer Intern**
 📍 **DigiAmplify**, London, UK (Remote)  
-📅 *July 2026 – September 2026  (3 Months)*
+📅 *July 2026 – August 2026  (2 Months)*
 
 <br>
 <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge" alt="Projects" />
