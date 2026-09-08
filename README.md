@@ -124,7 +124,7 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
 
 ## 💼 Work Experience
 
-### **Full Stack Web Developer Intern**
+### **Software Intern**
 📍 **DigiAmplify**, London, UK (Remote)  
 📅 *July 2026 – August 2026  (2 Months)*
 
