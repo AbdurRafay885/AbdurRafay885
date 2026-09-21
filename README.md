@@ -73,7 +73,9 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
   <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RESTful%20APIs-Red?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-Red?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Prisma%20ORM-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+
 </div>
 
 <br>
