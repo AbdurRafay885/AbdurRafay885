@@ -183,9 +183,9 @@ Hi, I am **Abdur Rafay Nadir**. I am a highly motivated and aspiring **Full-Stac
   * Built custom RESTful APIs for highly seamless and unified client-to-database communication architectures.
 
 ### 🌟 Other Projects
-* **Food Delivery Web Application** (Full Stack)
+* **Food Delivery Web Application**
 * **AI Image Generator Web Application** (AI Integration)
-* **Sports News Website** (Frontend UI)
+* **Sports News Website** 
 
 <br>
 
